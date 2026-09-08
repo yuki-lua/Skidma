@@ -1,6 +1,6 @@
 repeat task.wait() until game:IsLoaded()
 
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/AfgMS/Sigma5ForRoblox/refs/heads/main/sigma5/rektiskygay.lua"))()
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/yuki-lua/Skidma/refs/heads/main/sigma5/rektiskygay.lua"))()
 
 local entity = loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/refs/heads/main/libraries/entity.lua", true))()
 
