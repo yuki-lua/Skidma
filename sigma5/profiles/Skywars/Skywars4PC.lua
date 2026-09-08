@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AfgMS/Sigma5ForRoblox/main/SigmaLibrary.lua", true))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/yuki-lua/Skidma/main/sigma5/LibraryPC.lua", true))()
 local CoreGui = game:WaitForChild("CoreGui")
 local Player = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
