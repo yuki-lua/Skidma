@@ -58,7 +58,7 @@ if game.PlaceId == 6872274481 or game.PlaceId == 8560631822 or game.PlaceId == 8
     Mobile.Size = UDim2.new(0, 75, 1, 0)
     Mobile.Image = "http://www.roblox.com/asset/?id=11838014063"
     Mobile.MouseButton1Click:Connect(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/AfgMS/Sigma5ForRoblox/main/sigma5/profiles/Bedwars/Bedwars4Mobile.lua", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/yuki-lua/Skidma/main/sigma5/profiles/Bedwars/Bedwars4Mobile.lua", true))()
         task.wait()
         if Sigma5Device then
             Sigma5Device:Destroy()
@@ -75,7 +75,7 @@ if game.PlaceId == 6872274481 or game.PlaceId == 8560631822 or game.PlaceId == 8
     Emulator.Size = UDim2.new(0, 75, 1, 0)
     Emulator.Image = "http://www.roblox.com/asset/?id=11838013128"
     Emulator.MouseButton1Click:Connect(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/AfgMS/Sigma5ForRoblox/main/sigma5/profiles/Bedwars/Bedwars4PC.lua", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/yuki-lua/Skidma/main/sigma5/profiles/Bedwars/Bedwars4PC.lua", true))()
         task.wait()
         if Sigma5Device then
             Sigma5Device:Destroy()
