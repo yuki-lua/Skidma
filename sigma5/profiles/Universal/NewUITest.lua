@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AfgMS/Sigma5ForRoblox/main/sigma5/BetaLibrary.lua", true))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/yuki-lua/Skidma/main/sigma5/BetaLibrary.lua", true))()
 
 Library:CreateCore()
 Library:CreateNotification("UI", "New Notification Test", 2, true)
